@@ -19,14 +19,20 @@ Built a full-stack To-Do application featuring:
 
 ## 3. Features Completed
 - [x] Secure authentication (Register / Sign In) with JWT session persistence.
+![alt text](image-2.png)
 - [x] Full CRUD operations (Create task, Read with user isolation, Update completion/details, Delete).
 - [x] Responsive layout using Tailwind CSS.
+![alt text](image-1.png)
 - [x] Real-time task search filtering across titles and descriptions.
+![alt text](<Screenshot 2026-10-19 at 2.26.11 PM.png>)
 - [x] Task detail modal to view and update multi-line descriptions.
 - [x] Drag-and-drop task reordering with $O(1)$ fractional index recalculation.
+![alt text](image-3.png)
+![alt text](<Screenshot 2026-10-19 at 2.29.27 PM.png>)
 - [x] Vitest & Supertest automated API test suite covering auth, data isolation, and reorder math.
+![alt text](image-4.png)
 
-## 4. Deployment & Running Instructions (macOS Local & Cloud)
+## 4. Deployment & Running Instructions (macOS Local)
 
 ### Prerequisites
 - Node.js >= 20 (Tested on Node.js v24)
